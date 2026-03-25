@@ -22,7 +22,7 @@
 <br>
 
 <!-- LEFT GIF + ABOUT ME side by side -->
-<img align="right" alt="coding gif" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding gif" width="380" src="https://media.giphy.com/media/XbJYBCi69nyVOffLIU/giphy.gif"/>
 
 ### 💫 About Me
 
