@@ -14,8 +14,8 @@
 
 ```js
 const subaitha = {
-  college:    "Sri Krishna College of Technology, Coimbatore",
-  branch:     "Artificial Intelligence & Data Science",
+  college:    "SRM Institute of Science and Technology",
+  course:     "Masters in Computer Applications",
   building:   ["Full Stack Apps", "DSA Implementations", "Real-time Systems"],
   interests:  ["Web Dev", "Algorithms", "UI/UX", "Open Source"],
   currentlyOn: "TypeSurvival — a typing game that fights back ⚡",
