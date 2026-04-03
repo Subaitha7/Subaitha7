@@ -22,7 +22,7 @@
 <br>
 
 <!-- LEFT GIF + ABOUT ME side by side -->
-<img align="right" alt="coding gif" width="380" src="https://media.giphy.com/media/XbJYBCi69nyVOffLIU/giphy.gif"/>
+<img align="right" alt="coding gif" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 💫 About Me
 ```ts
@@ -169,28 +169,24 @@ Built with `Python` · `Flask` · `SQLAlchemy` · `Leaflet.js` · `SQLite`
 
 </div>
 </div>
----
+
+
 
 <!-- GITHUB STATS -->
+
 ### 🌱 GitHub Stats
 
 <div align="center">
 
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=Subaitha7&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
-<img width="420" src="https://nirzak-streak-stats.vercel.app/?user=Subaitha7&theme=tokyonight&hide_border=false&border_radius=10" />
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=Subaitha7&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=1800" />
+<img width="420" src="https://streak-stats.demolab.com?user=Subaitha7&theme=tokyonight&border_radius=10" />
 
 <br><br>
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subaitha7&layout=compact&theme=tokyonight&border_radius=10" />
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subaitha7&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800" />
 
 </div>
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=a9c4e4&height=80&section=footer"/>
-</div>
-
 <div align="center">
   <i>✦ Clean code. Deep thinking. Constant growth. ✦</i>
 </div>
-```
+
